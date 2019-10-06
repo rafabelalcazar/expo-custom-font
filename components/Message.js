@@ -31,6 +31,10 @@ export default class Message extends Component {
                     ) : null
                 }
                 <Icon name="Estrella" color="#05aaae" size={32}/>
+                <Icon name="Facebook" color="#05aaae" size={32}/>
+                <Icon name="Corazon" color="#05aaae" size={32}/>
+                <Icon name="CorazonAzul" color="#05aaae" size={32}/>
+                <Icon name="Promociones" color="#05aaae" size={32}/>
             </View>
         )
     }
